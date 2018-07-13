@@ -1,6 +1,7 @@
 # Session1
-This is a test Readme file. 
+This is a test Session 1 
 
-Documentation deatils for our upcoming big project will be published soon.
-And we think it will be awesome.
+Documentation for our upcoming big project
 
+
+edo okati rasthooo undaali.... testing planning...
