@@ -1,4 +1,6 @@
 # Session1
-This is a test Session 1 
+This is a test Readme file. 
 
-Documentation for our upcoming big project
+Documentation deatils for our upcoming big project will be published soon.
+And we think it will be awesome.
+
